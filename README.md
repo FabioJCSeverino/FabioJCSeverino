@@ -1,88 +1,108 @@
-# Olá, eu sou Fabio Severino
+# Hi, I'm Fabio Juliano
 
-Graduando em **Ciência da Computação na UDESC**, interessado principalmente em **Inteligência Artificial, Machine Learning, Visão Computacional e Robótica**.
+I'm a **Computer Science undergraduate at UDESC**, with interests in **Artificial Intelligence, Machine Learning, Computer Vision, and Robotics**.
 
-Atualmente, desenvolvo projetos independentes envolvendo redes neurais, classificação de imagens, IA aplicada a jogos e desenvolvimento de sistemas robóticos.
+I develop independent projects that combine software, mathematical modeling, and hardware, with a particular interest in understanding how intelligent systems can be designed, trained, and integrated into real-world applications.
 
-## Áreas de interesse
+## Research Interests
 
-- Inteligência Artificial e Machine Learning
-- Redes Neurais e Deep Learning
-- Visão Computacional
-- Robótica
-- Sistemas embarcados
-- Algoritmos e otimização
+* Artificial Intelligence and Machine Learning
+* Neural Networks and Deep Learning
+* Computer Vision
+* Robotics
+* Autonomous Systems
+* Embedded Systems
+* Algorithms and Optimization
 
-## Tecnologias
+## Technical Skills
 
-### Linguagens
+### Programming Languages
+
 `Python` · `C++` · `C` · `JavaScript`
 
-### IA / Machine Learning
+### Machine Learning & Scientific Computing
+
 `PyTorch` · `NumPy` · `Matplotlib`
 
-### Robótica / Hardware
+### Robotics & Hardware
+
 `ROS 2` · `EasyEDA` · `AutoCAD` · `PCB Design`
 
-## Projetos
+## Selected Projects
 
-### Chess Engine + NNUE
-Engine de xadrez desenvolvida em **C++**, incluindo uma implementação de **NNUE** para avaliação de posições.
+### Chess Engine & NNUE
 
-- Desenvolvimento de engine de xadrez
-- Avaliação baseada em redes neurais
-- Estudos de treinamento e avaliação de modelos
-- Otimização e experimentação com C++
+A chess engine developed independently in **C++**, including an **NNUE-based neural network evaluation**.
 
-### Redes Neurais e Classificação de Imagens
-Projetos independentes de Machine Learning utilizando **Python e PyTorch**.
+* Developed a chess engine from scratch
+* Implemented neural network-based position evaluation
+* Studied NNUE architectures and evaluation methods
+* Experimented with training and model evaluation
+* Focused on performance and algorithmic optimization
 
-Experimentos envolvendo:
+### Neural Networks & Image Classification
 
-- MLPs
-- CNNs
-- MNIST
-- Fashion-MNIST
-- CIFAR-10
-- Three-Spiral
-- Classificação de dados não linearmente separáveis
+A collection of independent **Machine Learning and Deep Learning experiments** using Python and PyTorch.
+
+Projects and experiments include:
+
+* Multi-Layer Perceptrons (MLPs)
+* Convolutional Neural Networks (CNNs)
+* MNIST
+* Fashion-MNIST
+* CIFAR-10
+* Three-Spiral classification
+* Nonlinear classification problems
+
+These projects have been used to study model architectures, training procedures, optimization, and the practical behavior of neural networks.
 
 ### Mini Hockey Robot
-Desenvolvimento de um robô para **Mini Hockey** no GERM — UDESC.
 
-Participação no desenvolvimento de diferentes partes do sistema, incluindo:
+Development of a **Mini Hockey robot** at **GERM — UDESC**, involving mechanical, electronic, and software development.
 
-- Projeto e desenvolvimento de PCB com EasyEDA
-- Projeto mecânico com AutoCAD
-- Integração de componentes eletrônicos
-- Desenvolvimento da lógica de controle
-- Programação e integração hardware/software
-- Prototipagem e testes
+My work includes:
 
-## Formação
+* PCB design using EasyEDA
+* Schematic and PCB layout development
+* Mechanical design using AutoCAD
+* Electronic component integration
+* Control logic and robot programming
+* Hardware/software integration
+* Prototyping, testing, and debugging
 
-**Ciência da Computação — UDESC**  
-2026 — 2030
+## Education
 
-## Olimpíadas Científicas
+**B.Sc. in Computer Science — UDESC**
+2026–2030
 
-- **OBMEP 2025** — Medalha de Prata Nacional e Ouro Regional
-- **OBMEP 2024** — Medalha de Bronze Regional
-- **OBMEP 2023** — Medalha de Bronze Regional
-- **Olimpíada Elon Lages Lima 2026** — Medalha de Prata Nacional
-- **OBI 2026** — Classificado para a fase final
-- **OBM 2026** — Classificado para a fase final
+## Academic Competitions
 
-## Estudos
+* **OBMEP 2025** — National Silver Medal & Regional Gold Medal
+* **OBMEP 2024** — Regional Bronze Medal
+* **OBMEP 2023** — Regional Bronze Medal
+* **Olimpíada Elon Lages Lima 2026** — National Silver Medal
+* **OBI 2026** — Qualified for the Final Round
+* **OBM 2026** — Qualified for the Final Round
 
-Além da graduação, realizo estudos independentes em Inteligência Artificial e Visão Computacional, utilizando como referências materiais acadêmicos e cursos online.
+## Independent Studies
 
-Entre os principais estudos:
+Alongside my undergraduate studies, I pursue independent study in Artificial Intelligence, Machine Learning, and Computer Vision through textbooks, academic lectures, and technical projects.
 
-- *Artificial Intelligence: A Modern Approach* — Stuart Russell e Peter Norvig
-- Estudos de Visão Computacional baseados em aulas e materiais da Stanford University
-- Estudos e experimentação introdutórios com ROS 2
+Current and previous areas of study include:
 
-## Contato
+* *Artificial Intelligence: A Modern Approach* — Stuart Russell & Peter Norvig
+* Computer Vision lectures and course materials from Stanford University
+* Introductory studies and experimentation with the ROS 2 ecosystem
 
+## Languages
+
+**Portuguese:** Native
+**English:** Fluent
+
+## Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/FabioDevoradorDeMundos)
 fabio.c.severino@gmail.com
+
+---
+
