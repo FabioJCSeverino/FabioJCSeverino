@@ -1,4 +1,4 @@
-# Hi, I'm Fabio Juliano
+# Hi, I'm Fabio Severino
 
 I'm a **Computer Science undergraduate at UDESC**, with interests in **Artificial Intelligence, Machine Learning, Computer Vision, and Robotics**.
 
