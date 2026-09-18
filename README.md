@@ -101,7 +101,6 @@ Current and previous areas of study include:
 
 ## Contact
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/FabioDevoradorDeMundos)
 fabio.c.severino@gmail.com
 
 ---
