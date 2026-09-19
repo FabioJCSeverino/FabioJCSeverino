@@ -97,6 +97,7 @@ Current and previous areas of study include:
 ## Languages
 
 **Portuguese:** Native
+
 **English:** Fluent
 
 ## Contact
