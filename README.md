@@ -22,7 +22,7 @@ I develop independent projects that combine software, mathematical modeling, and
 
 ### Machine Learning & Scientific Computing
 
-`PyTorch` · `NumPy` · `Matplotlib`
+`PyTorch` · `NumPy` · `Matplotlib` . `SQLite`
 
 ### Robotics & Hardware
 
