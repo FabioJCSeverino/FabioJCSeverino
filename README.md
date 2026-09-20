@@ -58,7 +58,7 @@ These projects have been used to study model architectures, training procedures,
 
 ### Mini Hockey Robot
 
-Development of a **Mini Hockey robot** at **GERM — UDESC**, involving mechanical, electronic, and software development.
+Development of a **Mini Hockey robot** at **GERM - UDESC**, involving mechanical, electronic, and software development.
 
 My work includes:
 
@@ -72,17 +72,17 @@ My work includes:
 
 ## Education
 
-**B.Sc. in Computer Science — UDESC**
-2026–2030
+**B.Sc. in Computer Science - UDESC**
+2026-2030
 
 ## Academic Competitions
 
-* **OBMEP 2025** — National Silver Medal & Regional Gold Medal
-* **OBMEP 2024** — Regional Bronze Medal
-* **OBMEP 2023** — Regional Bronze Medal
-* **Olimpíada Elon Lages Lima 2026** — National Silver Medal
-* **OBI 2026** — Qualified for the Final Round
-* **OBM 2026** — Qualified for the Final Round
+* **OBMEP 2025** - National Silver Medal & Regional Gold Medal
+* **OBMEP 2024** - Regional Bronze Medal
+* **OBMEP 2023** - Regional Bronze Medal
+* **Olimpíada Elon Lages Lima 2026** - National Silver Medal
+* **OBI 2026** - Qualified for the Final Round
+* **OBM 2026** - Qualified for the Final Round
 
 ## Independent Studies
 
@@ -90,7 +90,7 @@ Alongside my undergraduate studies, I pursue independent study in Artificial Int
 
 Current and previous areas of study include:
 
-* *Artificial Intelligence: A Modern Approach* — Stuart Russell & Peter Norvig
+* *Artificial Intelligence: A Modern Approach* - Stuart Russell & Peter Norvig
 * Computer Vision lectures and course materials from Stanford University
 * Introductory studies and experimentation with the ROS 2 ecosystem
 
